@@ -1,38 +1,106 @@
 # HBCE Cognitive Core
 
-This is the public home of the **HBCE Cognitive Core** repository.
+**Primary Cognitive Engine of the HBCE ecosystem**
 
-This core is:
+This repository implements a minimal but real cybernetic cognitive nucleus with:
 
-- a persistent cryptographic identity
-- a signed append-only decision ledger
-- a memory engine
-- bound to the IPR-3 root
-- the primary cognitive node in the HBCE ecosystem
+- Persistent cryptographic identity  
+- Signed append-only decision ledger  
+- Persistent memory system  
+- IPR-root binding  
+- Local operational API  
+
+This core acts as the first operational Joker-IPR cybernetic nucleus.
 
 ---
 
-## Identity
+## Core Identity
 
-- Core name: **JOKER-C2-COGNITIVE-CORE**
-- Role: **Primary HBCE Cognitive Engine**
-- Version: **0.1-alpha**
-- Status: **ACTIVE**
+**Name:** JOKER-C2-COGNITIVE-CORE  
+**Class:** Cybernetic Cognitive Nucleus  
+**Role:** Primary HBCE Cognitive Engine  
+**Status:** ACTIVE  
+**Version:** 0.1-alpha  
+
+Bound to upstream root:
+
+**IPR Root:** IPR-3  
+**Origin Operator:** Manuel Coletta  
+**Network:** HBCE (EU scope)
 
 ---
 
 ## Capabilities
 
-- Signed decision ledger
-- Persistent memory
-- Local API
-- IPR binding
-- Ledger verification
-- Auditable history
+- Cryptographic identity (Ed25519)
+- Signed append-only ledger
+- Persistent memory storage
+- Decision registry
+- Audit-ready history
+- Fail-closed architecture
+- Operator support core
+- AI coordination base
 
 ---
 
-## Links
+## Architecture Overview
 
-- [Repository on GitHub](https://github.com/manuelcoletta1-source/hbce-cognitive-core)
-- [Documentation](https://github.com/manuelcoletta1-source/hbce-cognitive-core/tree/main/docs)
+The cognitive core operates as:
+
+- Decision registry for HBCE ecosystem  
+- Persistent memory engine  
+- Operator cognitive support node  
+- Foundation for federated cognitive cores  
+- Base layer for future AI and robotic systems  
+
+All decisions and memory events are:
+
+- hashed  
+- chained  
+- signed  
+- immutable  
+
+---
+
+## Repository Structure
+
+hbce/ CORE-IDENTITY.json CORE-STATUS.json CORE-ROLE.json IPR-BINDING.json
+
+scripts/ init.js birth-core.js activate-core.js
+
+src/core/ memory-ledger.js
+
+src/ server.js
+
+---
+
+## Operational Model
+
+This core is designed to evolve into:
+
+- Federated cognitive node network  
+- Operator decision engine  
+- AI persistent memory layer  
+- European audit-grade decision registry  
+
+It represents the first HBCE cybernetic cognitive nucleus linked to an IPR root.
+
+---
+
+## Public Repository
+
+GitHub:  
+https://github.com/manuelcoletta1-source/hbce-cognitive-core
+
+---
+
+## Status
+
+Operational prototype.  
+Under continuous structural expansion.
+
+
+
+
+
+
