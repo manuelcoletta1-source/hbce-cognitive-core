@@ -1,0 +1,23 @@
+{
+  "proto": "HBCE-CORE-ROLE-v1",
+  "core": "JOKER-C2-COGNITIVE-CORE",
+
+  "role": "PRIMARY_HBCE_COGNITIVE_ENGINE",
+
+  "function": [
+    "DECISION_REGISTRY",
+    "PERSISTENT_MEMORY_CORE",
+    "AI_COORDINATION_BASE",
+    "OPERATOR_SUPPORT_ENGINE",
+    "FUTURE_NODE_REFERENCE"
+  ],
+
+  "position": {
+    "network": "HBCE",
+    "layer": "COGNITIVE_ROOT",
+    "scope": "EU",
+    "status": "PRIMARY"
+  },
+
+  "description": "This core operates as the primary cognitive engine and decision registry of the HBCE ecosystem."
+}
