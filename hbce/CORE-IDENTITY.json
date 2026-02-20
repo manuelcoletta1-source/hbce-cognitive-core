@@ -1,0 +1,43 @@
+{
+  "proto": "HBCE-CORE-IDENTITY-v1",
+  "entity_class": "COGNITIVE_NUCLEUS",
+  "entity_type": "CYBERNETIC_OPERATOR_CORE",
+
+  "core_designation": {
+    "name": "JOKER-C2-COGNITIVE-CORE",
+    "function": "Persistent decision and memory nucleus",
+    "mode": "APPEND_ONLY_INTELLIGENCE"
+  },
+
+  "control": {
+    "origin_operator": "Manuel Coletta",
+    "ipr_root": "IPR-3",
+    "jurisdiction": "EU",
+    "authority": "HBCE"
+  },
+
+  "network_position": {
+    "network": "HBCE",
+    "role": "PRIMARY_COGNITIVE_NODE",
+    "scope": "EU_OPERATOR_INFRASTRUCTURE",
+    "status": "ACTIVE"
+  },
+
+  "capabilities": [
+    "SIGNED_DECISION_LEDGER",
+    "PERSISTENT_MEMORY",
+    "AUDITABLE_HISTORY",
+    "OPERATOR_SUPPORT",
+    "AI_COORDINATION"
+  ],
+
+  "principles": [
+    "APPEND_ONLY",
+    "FAIL_CLOSED",
+    "AUDIT_FIRST",
+    "UE_FIRST",
+    "HASH_ONLY"
+  ],
+
+  "description": "Primary HBCE cognitive nucleus linked to IPR-3 and operating as cybernetic decision core."
+}
