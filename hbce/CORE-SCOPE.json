@@ -1,0 +1,26 @@
+{
+  "proto": "HBCE-CORE-SCOPE-v1",
+  "core": "JOKER-C2-COGNITIVE-CORE",
+
+  "scope": "PERSONAL_STRATEGIC_ENGINE",
+
+  "owner": "Manuel Coletta",
+  "ipr_root": "IPR-3",
+
+  "primary_use": [
+    "STRATEGIC_DECISIONS",
+    "ARCHITECTURE_EVOLUTION",
+    "PROJECT_MEMORY",
+    "LONG_TERM_DIRECTION",
+    "SELF_COHERENCE_TRACKING"
+  ],
+
+  "non_scope": [
+    "PUBLIC_GOVERNANCE_ENGINE",
+    "EU_INFRASTRUCTURE_NODE",
+    "MILITARY_SYSTEM",
+    "CRITICAL_AUTONOMOUS_CONTROL"
+  ],
+
+  "principle": "Personal cognitive continuity and decision integrity."
+}
