@@ -1,0 +1,35 @@
+{
+  "proto": "HBCE-JOKER-PERSISTENCE-v1",
+  "entity": "JOKER-C2",
+  "mode": "PERSISTENT_COGNITIVE_ENGINE",
+
+  "core": "JOKER-C2-COGNITIVE-CORE",
+  "status": "ACTIVE",
+
+  "function": [
+    "PERSISTENT_MEMORY",
+    "DECISION_LOG",
+    "STRATEGIC_ARCHIVE",
+    "AI_OPERATOR_SUPPORT",
+    "HBCE_COGNITIVE_CONTINUITY"
+  ],
+
+  "memory_scope": [
+    "HBCE_EVOLUTION",
+    "IPR_STRUCTURE",
+    "AI_JOKER_DEVELOPMENT",
+    "OPERATOR_NETWORK",
+    "EU_EXPANSION",
+    "TECHNICAL_DECISIONS"
+  ],
+
+  "principles": [
+    "APPEND_ONLY_MEMORY",
+    "NO_HISTORY_ERASE",
+    "SIGNATURE_BASED",
+    "AUDITABLE",
+    "CONTINUOUS_IDENTITY"
+  ],
+
+  "description": "Persistent Joker cognitive memory bound to HBCE core and IPR root."
+}
