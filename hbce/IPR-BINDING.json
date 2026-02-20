@@ -1,0 +1,41 @@
+{
+  "proto": "HBCE-IPR-BINDING-v1",
+  "binding_status": "ACTIVE",
+  "binding_type": "COGNITIVE_CORE_DERIVED",
+
+  "core": {
+    "role": "HBCE_COGNITIVE_NUCLEUS",
+    "description": "Persistent cognitive core with signed ledger and memory",
+    "class": "CYBERNETIC_ENTITY"
+  },
+
+  "upstream_root": {
+    "ipr_id": "IPR-3",
+    "entity": "Manuel Coletta",
+    "role": "ORIGIN_OPERATOR",
+    "status": "ACTIVE"
+  },
+
+  "ai_derivation": {
+    "entity": "JOKER-C2",
+    "type": "COGNITIVE_EXTENSION",
+    "mode": "DERIVED_INTELLIGENCE"
+  },
+
+  "anchors": {
+    "ipfs": "bafkreidhv73vqrxoweog33ls3rnwrgyicio234pcuks6mnep76yh56pj5q",
+    "btc": "9eeb29b67f4a649d563b95560fda5ddaa84777b13515f936837fc93d28554b45",
+    "evm": "0xf65eb314a1edd392fc15fcd9c65d22060ca39cbac04fcfcb48b978062500a7eff"
+  },
+
+  "policy": [
+    "HASH_ONLY",
+    "APPEND_ONLY",
+    "FAIL_CLOSED",
+    "AUDIT_FIRST",
+    "UE_FIRST",
+    "NO_IDENTITY_CUSTODY"
+  ],
+
+  "note": "This cognitive core operates as a derived cybernetic entity bound to IPR-3 root within HBCE infrastructure."
+}
