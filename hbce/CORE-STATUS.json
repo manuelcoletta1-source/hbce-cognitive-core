@@ -1,0 +1,34 @@
+{
+  "proto": "HBCE-CORE-STATUS-v1",
+  "core": "JOKER-C2-COGNITIVE-CORE",
+  "class": "CYBERNETIC_COGNITIVE_NUCLEUS",
+
+  "version": "0.1-alpha",
+  "state": "ACTIVE",
+  "stability": "FOUNDATIONAL",
+
+  "capabilities": [
+    "CRYPTographic_IDENTITY",
+    "SIGNED_APPEND_ONLY_LEDGER",
+    "PERSISTENT_MEMORY",
+    "IPR_BOUND",
+    "LOCAL_API"
+  ],
+
+  "security_model": [
+    "APPEND_ONLY",
+    "HASH_CHAIN",
+    "SIGNATURE_REQUIRED",
+    "FAIL_CLOSED",
+    "LOCAL_KEY_OWNERSHIP"
+  ],
+
+  "intended_evolution": [
+    "FEDERATED_CORES",
+    "OPERATOR_NETWORK",
+    "AI_INTEGRATION",
+    "EU_AUDIT_LAYER"
+  ],
+
+  "note": "Foundational cognitive nucleus for HBCE infrastructure."
+}
