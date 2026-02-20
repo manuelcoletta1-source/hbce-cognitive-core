@@ -1,0 +1,38 @@
+{
+  "proto": "HBCE-DECISION-REGISTRY-v1",
+  "registry": "PRIMARY_COGNITIVE_LEDGER",
+
+  "core": "JOKER-C2-COGNITIVE-CORE",
+  "role": "CENTRAL_DECISION_ENGINE",
+
+  "scope": {
+    "projects": [
+      "HBCE",
+      "IPR",
+      "AI-JOKER",
+      "OPERATOR-NETWORK",
+      "FUTURE-NODES"
+    ],
+    "jurisdiction": "EU",
+    "mode": "APPEND_ONLY"
+  },
+
+  "records": [
+    "STRATEGIC_DECISION",
+    "TECHNICAL_DECISION",
+    "IPR_EVENT",
+    "OPERATOR_EVENT",
+    "AI_EVENT",
+    "NODE_EVENT"
+  ],
+
+  "rules": [
+    "EVERY_CRITICAL_DECISION_CAN_BE_LOGGED",
+    "HASH_CHAIN_REQUIRED",
+    "SIGNATURE_REQUIRED",
+    "APPEND_ONLY",
+    "AUDIT_FIRST"
+  ],
+
+  "purpose": "Central decision memory and verification layer for HBCE ecosystem."
+}
